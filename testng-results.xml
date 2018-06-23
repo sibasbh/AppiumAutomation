@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="56152" started-at="2018-06-23T09:10:59Z" finished-at="2018-06-23T09:11:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="56152" started-at="2018-06-23T09:10:59Z" finished-at="2018-06-23T09:11:55Z">
+      <class name="mavanproject.TestCase_ProductSearch">
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:mavanproject.TestCase_ProductSearch@39fb3ab6]" name="initDriver" is-config="true" duration-ms="7624" started-at="2018-06-23T14:40:59Z" finished-at="2018-06-23T14:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="landingpage()[pri:1, instance:mavanproject.TestCase_ProductSearch@39fb3ab6]" name="landingpage" duration-ms="1095" started-at="2018-06-23T14:41:07Z" finished-at="2018-06-23T14:41:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- landingpage -->
+        <test-method status="PASS" signature="searchitem()[pri:2, instance:mavanproject.TestCase_ProductSearch@39fb3ab6]" name="searchitem" duration-ms="17684" started-at="2018-06-23T14:41:08Z" finished-at="2018-06-23T14:41:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchitem -->
+        <test-method status="PASS" signature="choosebrand()[pri:3, instance:mavanproject.TestCase_ProductSearch@39fb3ab6]" name="choosebrand" duration-ms="180" started-at="2018-06-23T14:41:26Z" finished-at="2018-06-23T14:41:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- choosebrand -->
+        <test-method status="PASS" signature="selectproduct()[pri:4, instance:mavanproject.TestCase_ProductSearch@39fb3ab6]" name="selectproduct" duration-ms="7149" started-at="2018-06-23T14:41:26Z" finished-at="2018-06-23T14:41:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectproduct -->
+        <test-method status="PASS" signature="addtocart()[pri:6, instance:mavanproject.TestCase_ProductSearch@39fb3ab6]" name="addtocart" duration-ms="10482" started-at="2018-06-23T14:41:33Z" finished-at="2018-06-23T14:41:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocart -->
+        <test-method status="PASS" signature="prodnamevalidation()[pri:7, instance:mavanproject.TestCase_ProductSearch@39fb3ab6]" name="prodnamevalidation" duration-ms="6956" started-at="2018-06-23T14:41:44Z" finished-at="2018-06-23T14:41:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prodnamevalidation -->
+        <test-method status="PASS" signature="removeitem()[pri:8, instance:mavanproject.TestCase_ProductSearch@39fb3ab6]" name="removeitem" duration-ms="1601" started-at="2018-06-23T14:41:50Z" finished-at="2018-06-23T14:41:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeitem -->
+        <test-method status="PASS" signature="tearDown()[pri:9, instance:mavanproject.TestCase_ProductSearch@39fb3ab6]" name="tearDown" duration-ms="3315" started-at="2018-06-23T14:41:52Z" finished-at="2018-06-23T14:41:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- mavanproject.TestCase_ProductSearch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
